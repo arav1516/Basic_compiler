@@ -1,0 +1,35 @@
+COMMENT : /* These are simple statements */
+IDENTIFIER : i
+ASSIGN : =
+INTEGER : 2
+PLUS : +
+INTEGER : 3
+SEMICOLON : ;
+COMMENT : /* assignment statement */
+IDENTIFIER : my_func
+OPEN_PARANTHESIS :(
+IDENTIFIER : i
+CLOSED_PARANTHESIS :)
+SEMICOLON : ;
+COMMENT : /* function call statement*/
+RETURN :return
+IDENTIFIER : i
+SEMICOLON : ;
+COMMENT : /* return statement*/
+COMMENT : /* These are compound statements */
+IF : if
+OPEN_PARANTHESIS :(
+IDENTIFIER : x
+GREATER_THAN : >
+INTEGER : 0
+CLOSED_PARANTHESIS :)
+OPEN_CURLY :{
+IDENTIFIER : i
+ASSIGN : =
+IDENTIFIER : i
+PLUS : +
+INTEGER : 1
+SEMICOLON : ;
+CLOSED_CURLY :} 
+ELSE : else
+OPEN_PARANTHESIS :(

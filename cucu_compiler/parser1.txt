@@ -1,0 +1,25 @@
+datatype : int
+IDENTIFIER : cucu_strlen 
+datatype : char pointer
+IDENTIFIER : s 
+Function Arguments Passed Above
+
+datatype : int
+IDENTIFIER : i 
+Integer : 0 
+Assignment : =
+IDENTIFIER : s 
+IDENTIFIER : i 
+SQUARE BRACKET USED : [] 
+IDENTIFIER : i 
+IDENTIFIER : i 
+Integer : 1 
+operation : + 
+While Loop Ends 
+
+IDENTIFIER : i 
+Return statement 
+
+Function declared above
+
+

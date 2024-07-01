@@ -1,0 +1,21 @@
+IDENTIFIER : i 
+Integer : 2 
+Integer : 3 
+operation : + 
+
+IDENTIFIER : my_func 
+IDENTIFIER : i 
+Function call ends 
+
+
+IDENTIFIER : i 
+Return statement 
+
+
+IDENTIFIER : x 
+Integer : 0 
+operation : > 
+IDENTIFIER : i 
+IDENTIFIER : i 
+Integer : 1 
+operation : + 
